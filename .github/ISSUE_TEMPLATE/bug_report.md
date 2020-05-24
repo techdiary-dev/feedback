@@ -2,7 +2,7 @@
 name: "\U0001F41E পোকা পেয়েছি (Bug report)"
 about: টেক ডায়েরি কে আরোও উন্নত করতে ভুলগুলি  ধরিয়ে দিন
 title: ''
-labels: bug
+labels: "\U0001F41E bug"
 assignees: kingRayhan
 
 ---
